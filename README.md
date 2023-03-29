@@ -1,6 +1,17 @@
 # poirot_or_marple_quiz
 Lighthearted quiz designed to help me understand using nested 'if' statements in Python.
 
+## Table of Contents
+* [Prerequisites](#prerequisites)
+* [Problem Statement](#problem_statement)
+* [Getting Started](#getting_started)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
+* [Disclaimer](#disclaimer)
+* [Note](#note)
+
 ## Prerequisites
 
 You will need Python installed on your computer. The recommended version is Python 3.6 or higher.
