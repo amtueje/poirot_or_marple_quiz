@@ -22,7 +22,7 @@ For the next question, use either 'Short' or 'Long' as a response, depending on 
       'The Yellow Iris', Series 5 - Episode 3""")
     else:
       print("\n\nA longer episode, great!")
-      epLengthLong = input("Would you prefer a longer episode from the earlier canon, Series 2-7? Or would you prefer a feature-length episdode from the later canon, Series 8-13?. Type 'Earlier' or 'Later', depending on your preference.>")
+      epLengthLong = input("Would you prefer a longer episode from the earlier canon, Series 2-7? Or would you prefer a feature-length episode from the later canon, Series 8-13?. Type 'Earlier' or 'Later', depending on your preference.>")
       if epLengthLong == "Earlier":
         print("""/n/nMay I recommend:
         'The Mysterious Affair at Styles', Series 3 - Episode 1
