@@ -67,7 +67,7 @@ elif tvDetective == "Miss Marple":
     if seriesHickson == "Series 1":
       print("\n\nSeries 1 it is! May I recommend 'A Murder is Announced'.")
     elif seriesHickson == "Series 2":
-      print("\n\nSeries 2 it is! May I reccomend 'At Bertram's Hotel'.")
+      print("\n\nSeries 2 it is! May I recommend 'At Bertram's Hotel'.")
     elif seriesHickson == "Series 3":
       print("\n\nSeries 3 is also a good choice!")
     else:
